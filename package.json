@@ -1,0 +1,24 @@
+{
+  "name": "keithzza",
+  "version": "1.0.0",
+  "description": "Delicious pizza and ethical business",
+  "main": "index.js",
+  "dependencies": {
+    "email-validator": "^2.0.4",
+    "mailgun-js": "^0.21.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkmaibach/keithzza.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkmaibach/keithzza/issues"
+  },
+  "homepage": "https://github.com/bkmaibach/keithzza#readme"
+}
