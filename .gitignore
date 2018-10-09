@@ -65,5 +65,5 @@ typings/
 .data/users/*
 .data/carts/*
 
-# environment variables
-secret_scripts/
+# Scripts including setting environment variables
+scripts/
